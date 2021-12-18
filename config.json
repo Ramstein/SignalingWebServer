@@ -1,0 +1,10 @@
+{
+	"UseFrontend": false,
+	"UseMatchmaker": true,
+	"UseHTTPS": false,
+	"UseAuthentication": false,
+	"LogToFile": true,
+	"HomepageFile": "custom_html/PixelDemo.htm",
+	"AdditionalRoutes": {},
+	"EnableWebserver": true
+}
